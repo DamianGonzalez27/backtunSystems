@@ -1,0 +1,70 @@
+
+.navbar{
+
+
+background-color: black !important;
+
+
+}
+.navbar a{
+
+	color: white !important;
+}
+
+.mensaje{
+
+	height: 200px !important;
+}
+
+#somos{
+
+	background-image: url(../imagenes/somos.jpg);
+	color: white;
+}
+
+.modalCabezera{
+
+	background-color: black !important;
+	color: white !important;
+}
+
+.diseño_articulos ul li{
+
+	text-decoration: none;
+	list-style: none;
+	margin-top: 10px;
+	border: solid grey 5px;
+}
+
+.articulo{
+
+	margin-top: 10px !important;
+
+
+}
+
+.boton_cerrar{
+
+	margin-bottom: 10px !important;
+	margin-left: 10px !important;
+
+
+}
+.lista_servicios li{
+
+	color: rgba(102,106,179,255);
+	list-style: none;
+
+}
+.boton_contactar{
+
+	margin-bottom: 10px !important;
+	margin-left: 10px !important;
+	background-color: green !important;
+}
+.mensajeCorreo{
+
+width: 100%;
+height: 100%;
+
+}
