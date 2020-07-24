@@ -4,9 +4,6 @@
 
 Se trataba de un proyecto mediante el cual se queria construir una pagina web para una empresa consultora de software.
 
-## Consumo de API de Rick And Morty
-
-- Creacion de repositorio en git
 
 ### Sigueme en mis redes sociales:
 - [Facebook](https://www.facebook.com/DamianGonzalezDev)
